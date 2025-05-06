@@ -77,3 +77,5 @@ while running:
 
 pygame.quit()
 print("游戏结束！得分:", score)
+
+print("V2版本:增加激励系统：非常棒", score)
