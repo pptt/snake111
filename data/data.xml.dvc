@@ -1,0 +1,7 @@
+outs:
+- path: data.xml
+  md5: 8a694f7be91e9184a886c25f19444b26
+  size: 159
+  desc: 10K StackOverflow posts (1/3 is R lang)
+  remote: docs/dvc
+  hash: md5
